@@ -4,7 +4,11 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
+/**
+ * 队列测试类
+ * @author scorpion
+ *
+ */
 public class BlockingQueueTest {
 	/** 定义装苹果的篮子 */
 
