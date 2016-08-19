@@ -12,5 +12,10 @@ public class StringSplitTest {
 		String ss=sb1.toString()+"000000";
 		//String a = new String(time.split("-"))+ "000000";
 		System.out.println(ss);
+		//测试session在cookie中的
+		 String sessionInCookie = System.getenv("Session.In.Cookie");
+		 System.out.println(sessionInCookie);
+		 //new String();
+		//System.out.println(new String(null));
 	}
 }
