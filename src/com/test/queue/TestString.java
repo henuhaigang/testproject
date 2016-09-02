@@ -1,9 +1,5 @@
 package com.test.queue;
-/**
- * String,Integer 对象创建测试类
- * @author scorpion
- *
- */
+
 public class TestString {
 
 	public static void main(String[] args) {
