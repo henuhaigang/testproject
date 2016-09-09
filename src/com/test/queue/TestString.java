@@ -1,9 +1,4 @@
-package com.test.queue;
-/**
- * String,Integer 对象创建测试类
- * @author scorpion
- *
- */
+
 public class TestString {
 
 	public static void main(String[] args) {
@@ -16,7 +11,7 @@ public class TestString {
 		Integer c=4;
 		Integer d=5;
 		Integer f=4+1;
-		System.out.println(d==f);  //true
+		System.out.println(d==f);  //truevvvvvvv
 		System.out.println(b.equals(c)); //true
 		System.out.println(b==c); 	//true
 		System.out.println(str1 == str2); //false
