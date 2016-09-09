@@ -6,7 +6,6 @@ public class StaticTest {
 		System.out.println("静态代码块");
 	}
 	public static void initApp(){
-		///
 		System.out.println("进入静态方法！");
 	}
 	public static void main(String[] args) {
