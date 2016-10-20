@@ -3,7 +3,7 @@ public class Wer {
 
 	public static void main(String[] args) {
 
-		但是犯得上犯得上发射点法士大夫士大夫
+
 	/*	
 		String str="123;345;456";
 		
