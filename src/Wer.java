@@ -3,10 +3,11 @@ public class Wer {
 
 	public static void main(String[] args) {
 
+
 		
 	/*	
 		String str="123;345;456";
-		
+		sadfsdfsdafdsdasdfdsafdasdfsaddfasdfsdfdsdfdsdfdsdfdsfsfasdfadf
 		String[] a=StringUtils.splitPreserveAllTokens(str,";");
 		System.out.println(a.toString());
 		System.out.println(a.length);
